@@ -11,6 +11,7 @@ const Nav = ()=>{
                     <li><a href="#">Market price</a></li>
                     <li><a href="#">About</a></li>
                 </ul>
+                <div className='sign'>Sign in</div>
         </nav>
     )
 }
